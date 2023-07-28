@@ -1,0 +1,9 @@
+# Ignore nix output paths
+result*
+
+# Ignore Hugo development resources
+src/.hugo_build.lock
+src/public/
+src/resources/
+src/static/img/icon.png
+src/themes/

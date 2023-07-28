@@ -1,0 +1,91 @@
+baseURL: /
+title: Hirwing Consulting AB
+defaultContentLanguage: sv
+theme: albatross
+
+disableKinds:
+  - taxonomy
+  - term
+
+params:
+  copyrightOwner: 2023 Hirwing Consulting AB
+  showAttribution: false
+
+  darkLogoPath: /img/logo-dark.svg
+  lightLogoPath: /img/logo-light.svg
+  iconPath: /img/icon.png
+
+  style:
+    # Offset space for i18n menu on narrow page
+    page-i18n-padding: 2.5
+
+    # Light colors
+    light-background-color: '#DDE3EB' # Alice Blue
+    light-border-color: '#4A4461' # English Violet
+    light-foreground-color: 'contrast-color(#A2A4BF, $light-background-color)' # Cool gray
+    light-menu-background: 'darken($light-background-color, 5%)' # Alice Blue
+    light-menu-foreground: 'contrast-color(#A2A4BF, $light-menu-background)' # Cool gray
+    light-menu-item-hover-background: 'darken($light-menu-background, 5%)' # Alice Blue
+    light-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $light-menu-item-hover-background)' # Alice Blue
+
+    # Dark colors
+    dark-background-color: '#2D3640' # Charcoal
+    dark-border-color: '#3E3A4F' # English Violet
+    dark-foreground-color: 'contrast-color(#A2A4BF, $dark-background-color)' # Cool gray
+    dark-link-default-color: 'contrast-color(#0000EE, $dark-background-color, 5)' # Blue
+    dark-link-visited-color: 'contrast-color(#551A8B, $dark-background-color, 5)' # Purple
+    dark-menu-background: 'darken($dark-background-color, 5%)' # Gunmetal
+    dark-menu-foreground: 'contrast-color(#A2A4BF, $dark-menu-background)' # Cool gray
+    dark-menu-item-hover-background: 'lighten($dark-menu-background, 2.5%)' # Gunmetal
+    dark-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $dark-menu-item-hover-background)' # Cool gray
+
+languages:
+  sv:
+    languageCode: sv-se
+
+    params:
+      homeUrl: /
+
+    menu:
+      main:
+        - name: IT Konsult
+          url: /#it-konsult
+          weight: 10
+
+        - name: Hemsidor
+          url: /#hemsidor
+          weight: 20
+
+        - name: Kontakt
+          url: /#kontakt
+          weight: 30
+
+      i18n:
+        - name: gb
+          url: /en/
+          weight: 10
+
+  en:
+    languageCode: en-us
+
+    params:
+      homeUrl: /en/
+
+    menu:
+      main:
+        - name: IT Consultant
+          url: /en/#it-consultant
+          weight: 10
+
+        - name: Websites
+          url: /en/#websites
+          weight: 20
+
+        - name: Contact
+          url: /en/#contact
+          weight: 30
+
+      i18n:
+        - name: se
+          url: /
+          weight: 10

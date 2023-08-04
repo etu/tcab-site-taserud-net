@@ -1,4 +1,4 @@
-Hirwing Consulting AB assists businesses, associations, organizations,
+Taserud Consulting AB assists businesses, associations, organizations,
 and individuals with expertise in IT and hosting solutions for
 informative and easily manageable websites. We focus on providing
 simple solutions to typically difficult problems.

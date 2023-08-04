@@ -1,5 +1,5 @@
 baseURL: /
-title: Hirwing Consulting AB
+title: Taserud Consulting AB
 defaultContentLanguage: sv
 theme: albatross
 
@@ -8,7 +8,7 @@ disableKinds:
   - term
 
 params:
-  copyrightOwner: 2023 Hirwing Consulting AB
+  copyrightOwner: 2023 Taserud Consulting AB
   showAttribution: false
 
   darkLogoPath: /img/logo-dark.svg

@@ -1,11 +1,11 @@
 {
-  description = "WebLizard Site: Hirwing.se";
+  description = "Taserud Consulting AB Site: Taserud.net";
 
   inputs = {
     nixpkgs.url = github:NixOS/nixpkgs/nixos-unstable-small;
     flake-utils.url = "flake-utils";
-    weblizard-theme-albatross.url = git+ssh://gitea@git.elis.nu/WebLizard/theme-albatross;
-    weblizard-theme-albatross.inputs.flake-utils.follows = "flake-utils";
+    taserud-theme-albatross.url = git+ssh://gitea@git.elis.nu/WebLizard/theme-albatross;
+    taserud-theme-albatross.inputs.flake-utils.follows = "flake-utils";
   };
 
   outputs = {
@@ -15,12 +15,12 @@
     ...
   } @ inputs: (flake-utils.lib.eachSystem ["x86_64-linux"] (system: let
     pkgs = nixpkgs.legacyPackages.${system};
-    tpkgs = inputs.weblizard-theme-albatross.packages.${system};
+    tpkgs = inputs.taserud-theme-albatross.packages.${system};
   in {
     packages.hugo = tpkgs.hugo;
     packages.theme = tpkgs.theme;
     packages.default = pkgs.stdenv.mkDerivation {
-      name = "site-hirwing-se";
+      name = "site-taserud-net";
       src = ./src;
 
       nativeBuildInputs = [

@@ -3,7 +3,7 @@
 <svg width="80mm" height="35mm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
   <style>
     text            { font-family: FreeMono; }
-    text#hirwing    { font-size: 18mm;       }
+    text#taserud    { font-size: 18mm;       }
     text#consulting { font-size: 13mm;       }
 
     #borders, text  { fill: #b3b5cb;                    }
@@ -23,7 +23,7 @@
     <rect width="20mm" height="20mm" x="48mm" y="-43mm" rx="3mm" transform="rotate(45)" />
   </g>
   <g id="text">
-    <text id="hirwing" x="2.2mm" y="16mm">hirwing</text>
-    <text id="consulting" x="1mm" y="27mm">consulting</text>
+    <text id="taserud" x="2.2mm" y="16mm">Taserud</text>
+    <text id="consulting" x="1mm" y="27mm">Consulting</text>
   </g>
 </svg>

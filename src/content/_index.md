@@ -47,4 +47,5 @@ Hör gärna av dig om du har några frågor!
 - 📧 E-post: elis@hirwing.se
 - 💬 Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - 💬 Telegram: [ehirwing](https://t.me/ehirwing)
+- 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
 - 🗺️ Adress: Repslagaregatan 20A, Arvika

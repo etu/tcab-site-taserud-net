@@ -47,4 +47,9 @@ Feel free to reach out if you have any questions!
 - 💬 Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - 💬 Telegram: [ehirwing](https://t.me/ehirwing)
 - 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
-- 🗺️ Address: Repslagaregatan 20A, Arvika, Sweden
+
+## Company details
+Taserud Consulting AB is registered in Sweden.
+
+- Registration number: 559443-9332
+- Address: Repslagaregatan 20A, Arvika, Sweden

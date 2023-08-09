@@ -48,4 +48,9 @@ Hör gärna av dig om du har några frågor!
 - 💬 Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - 💬 Telegram: [ehirwing](https://t.me/ehirwing)
 - 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
-- 🗺️ Adress: Repslagaregatan 20A, Arvika
+
+## Företaget
+Taserud Consulting AB är ett svenskt företag med säte i Arvika.
+
+- Organisationsummer: 559443-9332
+- Adress: Repslagaregatan 20A, Arvika

@@ -52,4 +52,5 @@ Feel free to reach out if you have any questions!
 Taserud Consulting AB is registered in Sweden.
 
 - Registration number: 559443-9332
+- VAT number: SE559443933201
 - Address: Repslagaregatan 20A, Arvika, Sweden

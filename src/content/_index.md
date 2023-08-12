@@ -53,4 +53,5 @@ Hör gärna av dig om du har några frågor!
 Taserud Consulting AB är ett svenskt företag med säte i Arvika.
 
 - Organisationsummer: 559443-9332
+- Momsnummer: SE559443933201
 - Adress: Repslagaregatan 20A, Arvika

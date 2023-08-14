@@ -2,17 +2,17 @@
 
 <svg width="80mm" height="35mm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
   <style>
-    text            { font-family: FreeMono; }
-    text#taserud    { font-size: 18mm;       }
-    text#consulting { font-size: 13mm;       }
+    text            { font-family: FreeMono; font-size: 18mm; }
+    text#consulting { font-size: 13mm;                        }
 
-    #borders, text  { fill: #434662;                    }
+    .border, text   { fill: #434662;                    }
     #background     { fill: #dde3eb;                    }
     #symbols rect   { fill: #cdd6e2; fill-opacity: 0.6; }
   </style>
   <g id="background-parts">
-    <rect id="borders" x="0" y="0" width="100%" height="100%" />
-    <rect id="background" x="0" y="1mm" width="100%" height="33mm" />
+    <rect id="background" x="0" y="0" width="100%" height="100%" />
+    <rect class="border" x="0" y="0" width="100%" height="1mm" />
+    <rect class="border" x="0" y="34mm" width="100%" height="1mm" />
   </g>
   <g id="symbols">
     <rect width="20mm" height="20mm" x="13mm" y="-8mm" rx="3mm" transform="rotate(45)" />

@@ -43,7 +43,7 @@ The hosting solution we provide is built on the following principles:
 ## Contact
 Feel free to reach out if you have any questions!
 
-- 📧 Email: elis@hirwing.se
+- 📧 Email: elis@taserud.net
 - 💬 Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - 💬 Telegram: [ehirwing](https://t.me/ehirwing)
 - 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)

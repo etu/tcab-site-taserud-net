@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="88mm" height="58mm">
+  <style type="text/css">
+    text            { font-family: FreeMono; font-size: 18mm; }
+    text#consulting { font-size: 13mm;                        }
+
+    .border, text   { fill: #b3b5cb;                    }
+    #background     { fill: #2d3640;                    }
+    #symbols rect   { fill: #222931; fill-opacity: 0.4; }
+  </style>
+
+  <g id="background-parts">
+    <rect id="background" x="0" y="0" width="100%" height="100%" />
+    <rect class="border" x="4mm" y="11.5mm" width="80mm" height="1mm" />
+    <rect class="border" x="4mm" y="45.5mm" width="80mm" height="1mm" />
+  </g>
+  <g id="symbols">
+    <rect width="20mm" height="20mm" x="24mm" y="-2.8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="31mm" y="-9.8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="38mm" y="-16.8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="45mm" y="-23.8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="52mm" y="-30.8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="59mm" y="-37.8mm" rx="3mm" transform="rotate(45)" />
+  </g>
+  <g id="text">
+    <text id="taserud" x="6.2mm" y="27.5mm">Taserud</text>
+    <text id="consulting" x="5mm" y="38.5mm">Consulting</text>
+  </g>
+</svg>

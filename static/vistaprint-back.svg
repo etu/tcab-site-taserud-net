@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="88mm" height="58mm">
+  <style type="text/css">
+    text            { font-family: FreeMono; font-size: 5mm; }
+
+    .border, text   { fill: #434662;                    }
+    #background     { fill: #dde3eb;                    }
+    #symbols rect   { fill: #cdd6e2; fill-opacity: 0.6; }
+    text.header     { font-weight: bold; }
+  </style>
+
+  <g id="background-parts">
+    <rect id="background" x="0" y="0" width="100%" height="100%" />
+    <rect class="border" x="3mm" y="3mm" width="82mm" height="1mm" />
+    <rect class="border" x="3mm" y="54mm" width="82mm" height="1mm" />
+  </g>
+  <g id="symbols">
+    <rect width="30mm" height="30mm" x="22mm" y="-11mm" rx="6mm" transform="rotate(45)" />
+    <rect width="30mm" height="30mm" x="31.5mm" y="-20.5mm" rx="6mm" transform="rotate(45)" />
+    <rect width="30mm" height="30mm" x="41mm" y="-30mm" rx="6mm" transform="rotate(45)" />
+    <rect width="30mm" height="30mm" x="50.5mm" y="-39.5mm" rx="6mm" transform="rotate(45)" />
+  </g>
+  <g id="text">
+    <text class="header" x="15mm" y="10mm">IT-Konsult i Arvika</text>
+
+    <text x="5mm" y="18mm">Konsulttjänster • Hemsidor</text>
+    <text x="5mm" y="24mm">Linux • Nätverk • Säkerhet</text>
+    <text x="5mm" y="30mm">Kluster • Backup • Rutiner</text>
+    <text x="8mm" y="36mm">Rådfrågning • Utbildning</text>
+
+    <text class="header" x="5mm" y="44mm">Hemsida: taserud.net</text>
+    <text class="header" x="5mm" y="50mm">Kontakt: elis@taserud.net</text>
+  </g>
+</svg>

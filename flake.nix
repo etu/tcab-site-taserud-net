@@ -62,6 +62,31 @@
         cp -vr public/ $out
       '';
     };
+    packages.businesscard = pkgs.stdenv.mkDerivation {
+      name = "businesscard-vistaprint-taserud-net";
+      src = ./static;
+
+      nativeBuildInputs = [
+        # needed to process the svg and have the correct fonts
+        pkgs.inkscape
+        pkgs.freefont_ttf
+      ];
+
+      buildPhase = ''
+        inkscape --export-type=png \
+                 --export-filename=front.png \
+                 --export-dpi=300 vistaprint-front.svg
+
+        inkscape --export-type=png \
+                 --export-filename=back.png \
+                 --export-dpi=300 vistaprint-back.svg
+      '';
+
+      installPhase = ''
+        mkdir -p $out
+        cp front.png back.png $out
+      '';
+    };
 
     # Specify formatter package for "nix fmt ." and "nix fmt . -- --check"
     formatter = pkgs.alejandra;

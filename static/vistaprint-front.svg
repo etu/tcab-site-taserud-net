@@ -9,20 +9,32 @@
     #symbols rect   { fill: #222931; fill-opacity: 0.4; }
   </style>
   <rect id="background" x="0" y="0" width="100%" height="100%" />
-  <g id="background-borders">
-    <rect class="border" x="4mm" y="11.5mm" width="80mm" height="1mm" />
-    <rect class="border" x="4mm" y="45.5mm" width="80mm" height="1mm" />
+  <!--
+      The translate numbers in this file is "magic numbers" that I
+      don't know how to calculate myself.
+
+      However, I wanted to move it 4mm from left and 11.5mm from the
+      top, and attempted to do so by translate(4mm,11.5mm). This only
+      worked in Firefox but not anywhere else.
+
+      So I pulled the file into Inkscape and applied that change to
+      get the transforms into place and then cleaned out all the
+      Inkscape garbage.
+  -->
+  <g id="background-borders" transform="translate(15.11811,43.464567)">
+    <rect class="border" x="0" y="0" width="80mm" height="1mm" />
+    <rect class="border" x="0" y="34mm" width="80mm" height="1mm" />
   </g>
-  <g id="symbols">
-    <rect width="20mm" height="20mm" x="24mm" y="-2.8mm" rx="3mm" transform="rotate(45)" />
-    <rect width="20mm" height="20mm" x="31mm" y="-9.8mm" rx="3mm" transform="rotate(45)" />
-    <rect width="20mm" height="20mm" x="38mm" y="-16.8mm" rx="3mm" transform="rotate(45)" />
-    <rect width="20mm" height="20mm" x="45mm" y="-23.8mm" rx="3mm" transform="rotate(45)" />
-    <rect width="20mm" height="20mm" x="52mm" y="-30.8mm" rx="3mm" transform="rotate(45)" />
-    <rect width="20mm" height="20mm" x="59mm" y="-37.8mm" rx="3mm" transform="rotate(45)" />
+  <g id="symbols" transform="translate(15.118041,43.462883)">
+    <rect width="20mm" height="20mm" x="13mm" y="-8mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="20mm" y="-15mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="27mm" y="-22mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="34mm" y="-29mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="41mm" y="-36mm" rx="3mm" transform="rotate(45)" />
+    <rect width="20mm" height="20mm" x="48mm" y="-43mm" rx="3mm" transform="rotate(45)" />
   </g>
-  <g id="text">
-    <text id="taserud" x="6.2mm" y="27.5mm">Taserud</text>
-    <text id="consulting" x="5mm" y="38.5mm">Consulting</text>
+  <g id="text" transform="translate(15.11811,43.464564)">
+    <text id="taserud" x="2.2mm" y="16mm">Taserud</text>
+    <text id="consulting" x="1mm" y="27mm">Consulting</text>
   </g>
 </svg>

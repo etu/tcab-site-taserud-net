@@ -19,7 +19,7 @@
   in {
     packages.hugo = tpkgs.hugo;
     packages.theme = tpkgs.theme;
-    packages.default = pkgs.stdenv.mkDerivation {
+    packages.website = pkgs.stdenv.mkDerivation {
       name = "site-taserud-net";
       src = ./src;
 

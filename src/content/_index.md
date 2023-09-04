@@ -26,7 +26,7 @@ Hostinglösningen vi erbjuder bygger på följande:
   hålla servrar uppdaterade och leverera alla hemsidor via HTTPS.
 
 - **Mobilanpassade hemsidor** - Alla hemsidor vi bygger ska fungera på
-  mobiltelefoner, datorer och läsplattor.
+  mobiltelefoner, datorer och surfplattor.
 
 - **Statiska hemsidor** - Detta innebär att hemsidorna inte kan ändras
   dynamiskt genom att logga in i en portal. Detta ger ett väldigt bra

@@ -80,17 +80,17 @@
         "web-iso-flags": "web-iso-flags"
       },
       "locked": {
-        "lastModified": 1692708560,
-        "narHash": "sha256-8/1xRVJSWu0hIqpkdXMezXBI2Zli5tmsfSH6CP/01Gw=",
+        "lastModified": 1700073992,
+        "narHash": "sha256-0daiBMsyI1UAIUjyRVy9qlXwRAw9isX62lGFnM96Pwo=",
         "ref": "refs/heads/main",
-        "rev": "b640ac2bf90d6c4b4e105056fb13f4bd24f3b229",
-        "revCount": 70,
+        "rev": "bc0cdf8a8f1bf3006a32c2a976a9f8acf163e717",
+        "revCount": 72,
         "type": "git",
-        "url": "ssh://gitea@git.elis.nu/WebLizard/theme-albatross"
+        "url": "ssh://git@github.com/TaserudConsulting/theme-albatross"
       },
       "original": {
         "type": "git",
-        "url": "ssh://gitea@git.elis.nu/WebLizard/theme-albatross"
+        "url": "ssh://git@github.com/TaserudConsulting/theme-albatross"
       }
     },
     "web-iso-flags": {
@@ -105,17 +105,17 @@
         ]
       },
       "locked": {
-        "lastModified": 1692708068,
-        "narHash": "sha256-FLkCyKrK2wEq1TMYaXDTEGdWPHe6uDH+bcZcK1CQqyU=",
+        "lastModified": 1700072524,
+        "narHash": "sha256-krdlAGoY0YB9lBaOSLRV0n0x4M59wbw5MK5AdNA8Fog=",
         "ref": "refs/heads/main",
-        "rev": "d4a6c5d2dbbbe5a21f9d25fd3deddf239d9a5ad8",
-        "revCount": 7,
+        "rev": "06b7c8ed519901a1989600ac7c54f4f7df1ad0c0",
+        "revCount": 16,
         "type": "git",
-        "url": "ssh://gitea@git.elis.nu/WebLizard/web-iso-flags"
+        "url": "ssh://git@github.com/TaserudConsulting/web-iso-flags"
       },
       "original": {
         "type": "git",
-        "url": "ssh://gitea@git.elis.nu/WebLizard/web-iso-flags"
+        "url": "ssh://git@github.com/TaserudConsulting/web-iso-flags"
       }
     }
   },

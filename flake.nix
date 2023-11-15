@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = github:NixOS/nixpkgs/nixos-unstable-small;
     flake-utils.url = "flake-utils";
-    taserud-theme-albatross.url = git+ssh://gitea@git.elis.nu/WebLizard/theme-albatross;
+    taserud-theme-albatross.url = git+ssh://git@github.com/TaserudConsulting/theme-albatross;
     taserud-theme-albatross.inputs.flake-utils.follows = "flake-utils";
   };
 

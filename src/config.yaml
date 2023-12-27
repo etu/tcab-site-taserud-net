@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://taserud.net/
 title: Taserud Consulting AB
 defaultContentLanguage: sv
 theme: albatross
@@ -32,6 +32,7 @@ params:
   darkLogoPath: /img/logo-dark.svg
   lightLogoPath: /img/logo-light.svg
   iconPath: /img/icon.png
+  ogImagePath: /img/icon.png
 
   style:
     # Offset space for i18n menu on narrow page

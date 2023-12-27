@@ -1,3 +1,6 @@
+---
+description: Taserud Consulting AB hjälper företag, föreningar, organisationer och privatpersoner med expertis inom IT
+---
 Taserud Consulting AB hjälper företag, föreningar, organisationer och
 privatpersoner med expertis inom IT samt hostinglösningar av
 informativa, lättskötta hemsidor. Vi fokuserar på att ha enkla

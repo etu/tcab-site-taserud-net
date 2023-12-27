@@ -19,11 +19,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1703032144,
-        "narHash": "sha256-diY4uEfU/7JkTfzs7tKHt7K4MX/trzkVhqpN3rjemE4=",
+        "lastModified": 1703643441,
+        "narHash": "sha256-UsAtbIwxBuciNfiwY9g+jiLDyvYIaO5jai8avtAK+EE=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "64121103ec8253dce1c285ffd2b1e35f0351fe30",
+        "rev": "f930306a698f1ae7045cf3265693b7ebc9512f23",
         "type": "github"
       },
       "original": {
@@ -80,11 +80,11 @@
         "web-iso-flags": "web-iso-flags"
       },
       "locked": {
-        "lastModified": 1703101579,
-        "narHash": "sha256-GOp8gJ1CdlPLqHU3zPTSTK/kbJDkzKypX/lV5hrvIZE=",
+        "lastModified": 1703707140,
+        "narHash": "sha256-qW4KqMUbQ6qiyLYIMmoOEbb8ZG4mBWD+YP1iDI0YrzU=",
         "ref": "refs/heads/main",
-        "rev": "ada2e9eee24a7adda97d7586744fde69ede1d3b0",
-        "revCount": 73,
+        "rev": "46ef6515cee38859c1276e82a1852b98be299445",
+        "revCount": 76,
         "type": "git",
         "url": "ssh://git@github.com/TaserudConsulting/theme-albatross"
       },

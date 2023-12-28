@@ -32,7 +32,7 @@ params:
   darkLogoPath: /img/logo-dark.svg
   lightLogoPath: /img/logo-light.svg
   iconPath: /img/icon.png
-  ogImagePath: /img/icon.png
+  ogImagePath: /img/og-image.png
 
   style:
     # Offset space for i18n menu on narrow page

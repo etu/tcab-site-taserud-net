@@ -47,11 +47,12 @@ Hostinglösningen vi erbjuder bygger på följande:
 ## Kontakt
 Hör gärna av dig om du har några frågor!
 
+- 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
+- 📘 Facebook [Taserud Consulting AB](https://www.facebook.com/taserudconsulting)
 - 📧 E-post: elis@taserud.net
 - ☎️ Telefon: [070 425 12 98](tel:+46704251298)
 - 💬 Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - 💬 Telegram: [ehirwing](https://t.me/ehirwing)
-- 🔗 LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
 
 ## Företaget
 Taserud Consulting AB är ett svenskt företag med säte i Arvika.

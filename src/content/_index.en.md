@@ -1,5 +1,5 @@
 ---
-description: Taserud Consulting AB assists businesses, associations, organizations, and individuals with expertise in IT. Including Nix, NixOS, Kubernetes and more.
+description: Expertise in IT related to Linux, Kubernetes, NixOS, Nix, and other technical solutions generally revolving around free and open-source software.
 ---
 Taserud Consulting AB assists businesses, associations, organizations,
 and individuals with expertise in IT and hosting solutions for

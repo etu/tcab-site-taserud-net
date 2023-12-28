@@ -1,5 +1,5 @@
 ---
-description: Taserud Consulting AB hjälper företag, föreningar, organisationer och privatpersoner med expertis inom IT. Inklusive Nix, NixOS, Kubernetes med mera.
+description: Expertis inom IT kring Linux, Kubernetes, NixOS, Nix och andra tekniska lösningar som generellt kretsar kring fri och öppen mjukvara.
 ---
 Taserud Consulting AB hjälper företag, föreningar, organisationer och
 privatpersoner med expertis inom IT samt hostinglösningar av

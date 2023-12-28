@@ -80,11 +80,11 @@
         "web-iso-flags": "web-iso-flags"
       },
       "locked": {
-        "lastModified": 1703752028,
-        "narHash": "sha256-9zJp5HCDXudI42VLmgvHSeWyJ0SeKXm5nKOJqWA0MHc=",
+        "lastModified": 1703772824,
+        "narHash": "sha256-qReRvF3C7QAntH6OZsahJmCnZ2pmyxclaaeBJ+588Vo=",
         "ref": "refs/heads/main",
-        "rev": "b1c1fb155245eebf5cee354dab9f3fc984c8d09a",
-        "revCount": 78,
+        "rev": "699fb5d1373cf11a9e9ccccd4fc85f333addb8a5",
+        "revCount": 79,
         "type": "git",
         "url": "ssh://git@github.com/TaserudConsulting/theme-albatross"
       },

@@ -79,6 +79,10 @@ languages:
           url: /#kontakt
           weight: 30
 
+        - name: Blogg
+          url: /blog/
+          weight: 40
+
       i18n:
         - name: gb
           url: /en/

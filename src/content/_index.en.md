@@ -1,5 +1,5 @@
 ---
-description: Taserud Consulting AB assists businesses, associations, organizations, and individuals with expertise in IT
+description: Taserud Consulting AB assists businesses, associations, organizations, and individuals with expertise in IT. Including Nix, NixOS, Kubernetes and more.
 ---
 Taserud Consulting AB assists businesses, associations, organizations,
 and individuals with expertise in IT and hosting solutions for

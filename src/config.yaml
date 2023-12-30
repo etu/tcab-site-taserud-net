@@ -108,6 +108,10 @@ languages:
           url: /en/#contact
           weight: 30
 
+        - name: Blog
+          url: /en/blog/
+          weight: 40
+
       i18n:
         - name: se
           url: /

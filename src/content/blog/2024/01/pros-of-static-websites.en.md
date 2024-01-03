@@ -21,6 +21,9 @@ better and easier than they were 20 years ago.
 Static websites are often a better choice than dynamic ones, and we
 will go through some of the reasons we see below.
 
+Contact us if you're interested to build a static website or need help
+to build one and to host it. [Contact us here](/en/#contact).
+
 ## Advantages
 Here, we explore the advantages we see with static websites.
 
@@ -96,3 +99,6 @@ Businesses where I see great potential for static websites:
 - All types of businesses where there is static information, such as
   opening hours, phone numbers, addresses, and similar, to find the
   business's physical location.
+
+Contact us if you're interested to build a static website or need help
+to build one and to host it. [Contact us here](/en/#contact).

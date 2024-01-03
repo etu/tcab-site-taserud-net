@@ -34,7 +34,7 @@ ensure recovery in case the worst happens.
 
 Contact us if you need help building your strategy or want advice and
 assistance in enhancing your cyber resilience against
-ransomware. [Contact us here](/en/#contact)
+ransomware. [Contact us here](/en/#contact).
 
 ### Part 1: Minimize Exposure
 The initial defense for any computer system is always to minimize the
@@ -82,4 +82,4 @@ a fresh installation with exactly the same configuration as before.
 ## How do you protect yourself and your business against ransomware?
 Contact us if you need help building your strategy or want advice and
 assistance in enhancing your cyber resilience against
-ransomware. [Contact us here](/en/#contact)
+ransomware. [Contact us here](/en/#contact).

@@ -36,7 +36,7 @@ vi ska kunna återhämta oss ifall det värsta inträffar.
 
 Kontakta oss om ni behöver hjälp att bygga upp er strategi eller få
 tips, råd och hjälp att bygga upp er cyberresiliens mot
-ransomware. [Kontakta oss här](/#kontakt)
+ransomware. [Kontakta oss här](/#kontakt).
 
 ### Del 1: Minimera exponering
 Första försvaret av ett datorsystem är alltid att minemera
@@ -88,4 +88,4 @@ vi en ny installation med exakt samma konfiguration som tidigare.
 ## Hur skyddar du dig och ditt företag mot ransomware?
 Kontakta oss om ni behöver hjälp att bygga upp er strategi eller få
 tips, råd och hjälp att bygga upp er cyberresiliens mot
-ransomware. [Kontakta oss här](/#kontakt)
+ransomware. [Kontakta oss här](/#kontakt).

@@ -21,6 +21,10 @@ hemsidor bättre och enklare att än vad det fanns för 20 år sedan.
 Statiska hemsidor är ofta ett bättre val än dynamiska hemsidor och vi
 kommer gå igenom några av anledningarna som vi ser nedan.
 
+Kontakta oss om ni är intresserade av att bygga en statisk hemsida
+eller vill ha hjälp att bygga en och att hosta den. [Kontakta oss
+här](/#kontakt).
+
 ## Fördelar
 Här går vi igenom de fördelar vi ser med statiska hemsidor.
 
@@ -97,3 +101,7 @@ Verksamheter där jag ser stor potential för statiska hemsidor:
 - Alla former av verksamheter där det är statisk information, tex
   öppettider, telefonnummer, address och liknande för att hitta till
   verksamhetens fysiska plats.
+
+Kontakta oss om ni är intresserade av att bygga en statisk hemsida
+eller vill ha hjälp att bygga en och att hosta den. [Kontakta oss
+här](/#kontakt).

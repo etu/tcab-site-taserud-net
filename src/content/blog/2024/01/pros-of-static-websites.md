@@ -32,13 +32,13 @@ Här går vi igenom de fördelar vi ser med statiska hemsidor.
 Med en statisk hemsida så är det ofta lättare att resonera kring vad
 man lägger in i sin hemsida, vilket gör att man på ett annat sätt får
 en överblick över de olika sakerna man lägger in. Detta brukar leda
-till att statiska hemsidor generellt innehåller mindre onödiga
+till att statiska hemsidor generellt innehåller färre onödiga
 resurser eller onödiga anrop till tredje part.
 
 Detta bidrar till att det är lättare att bygga en lättviktig hemsida
-som får kortare laddningstider för användaren. Detta leder till en
-bättre användarupplevelse. Speciellt på dåliga uppkopplingar som till
-exempel mobiltelefoner.
+som får kortare laddningstider för användaren. Vilket leder till en
+bättre användarupplevelse. Speciellt på dåliga uppkopplingar, till
+exempel som för mobiltelefoner.
 
 ### Fungerar på alla enheter
 Det är en vanlig missuppfattning att statiska hemsidor inte är
@@ -63,17 +63,17 @@ server - för att skydda användaren av hemsidan.
 
 ### Prestanda för servern
 En av fördelarna med statiska hemsidor jämfört med dynamiska är att de
-inte behöver beräknas i realtid vid varje besök. Istället så gör man
-all den beräkningen i förhand. Detta leder till att man får mindre
-last på sin hosting och kan ha fler användare på mindre
-serverkostnader för dig.
+inte behöver rendreras i realtid vid varje besök. Istället så gör man
+all den rendreringen i förhand. Detta leder till att man får mindre
+last på sin server och kan ha fler användare på mindre hårdvara - och
+då spara på kostnader.
 
 ### Enklare serverhantering
 Backup-processen blir trivial för servrar som bara har statiska
 hemsidor på sig blir mycket enklare då man inte behöver hålla koll på
-komplicerat state. Allt som behövs för att återskapa hemsidorna är
-strikt definerat i ett projekt och så kan man återskapa hela hemsidan
-från det projektet.
+komplicerat innehåll i form av databaser. Allt som behövs för att
+återskapa hemsidorna är strikt definerat i ett projekt och så kan man
+återskapa hela hemsidan från det projektet.
 
 ## Begränsningar
 De absolut största begränsningarna ligger i den statiska naturen,

@@ -9,7 +9,6 @@ disableKinds:
 
 params:
   copyrightOwner: 2023 Taserud Consulting AB
-  showAttribution: false
 
   extraHeadContent: |
     <!-- Matomo -->
@@ -37,6 +36,9 @@ params:
   style:
     # Offset space for i18n menu on narrow page
     page-i18n-padding: 2.5
+
+    # Hide all the stylesheets for the food menu features.
+    page-include-food-menu-styles: 'false'
 
     # Light colors
     light-background-color: '#DDE3EB' # Alice Blue

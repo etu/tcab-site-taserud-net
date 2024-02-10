@@ -59,6 +59,9 @@
 
       installPhase = ''
         cp -vr public/ $out
+
+        # Set domain for github pages
+        echo taserud.net > $out/CNAME
       '';
     };
     packages.businesscard = pkgs.stdenv.mkDerivation {

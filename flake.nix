@@ -2,14 +2,13 @@
   description = "Taserud Consulting AB Site: Taserud.net";
 
   inputs = {
-    nixpkgs.url = github:NixOS/nixpkgs/nixos-unstable-small;
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable-small";
     flake-utils.url = "flake-utils";
-    taserud-theme-albatross.url = github:TaserudConsulting/theme-albatross;
+    taserud-theme-albatross.url = "github:TaserudConsulting/theme-albatross";
     taserud-theme-albatross.inputs.flake-utils.follows = "flake-utils";
   };
 
   outputs = {
-    self,
     nixpkgs,
     flake-utils,
     ...

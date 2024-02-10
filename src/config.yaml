@@ -1,3 +1,4 @@
+---
 baseURL: https://taserud.net/
 title: Taserud Consulting AB
 defaultContentLanguage: sv
@@ -41,24 +42,24 @@ params:
     page-include-food-menu-styles: 'false'
 
     # Light colors
-    light-background-color: '#DDE3EB' # Alice Blue
-    light-border-color: '#4A4461' # English Violet
-    light-foreground-color: 'contrast-color(#A2A4BF, $light-background-color)' # Cool gray
-    light-menu-background: 'darken($light-background-color, 5%)' # Alice Blue
-    light-menu-foreground: 'contrast-color(#A2A4BF, $light-menu-background)' # Cool gray
-    light-menu-item-hover-background: 'darken($light-menu-background, 5%)' # Alice Blue
-    light-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $light-menu-item-hover-background)' # Alice Blue
+    light-background-color: '#DDE3EB'  # Alice Blue
+    light-border-color: '#4A4461'  # English Violet
+    light-foreground-color: 'contrast-color(#A2A4BF, $light-background-color)'  # Cool gray
+    light-menu-background: 'darken($light-background-color, 5%)'  # Alice Blue
+    light-menu-foreground: 'contrast-color(#A2A4BF, $light-menu-background)'  # Cool gray
+    light-menu-item-hover-background: 'darken($light-menu-background, 5%)'  # Alice Blue
+    light-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $light-menu-item-hover-background)'  # Alice Blue
 
     # Dark colors
-    dark-background-color: '#2D3640' # Charcoal
-    dark-border-color: '#3E3A4F' # English Violet
-    dark-foreground-color: 'contrast-color(#A2A4BF, $dark-background-color)' # Cool gray
-    dark-link-default-color: 'contrast-color(#0000EE, $dark-background-color, 5)' # Blue
-    dark-link-visited-color: 'contrast-color(#551A8B, $dark-background-color, 5)' # Purple
-    dark-menu-background: 'darken($dark-background-color, 5%)' # Gunmetal
-    dark-menu-foreground: 'contrast-color(#A2A4BF, $dark-menu-background)' # Cool gray
-    dark-menu-item-hover-background: 'lighten($dark-menu-background, 2.5%)' # Gunmetal
-    dark-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $dark-menu-item-hover-background)' # Cool gray
+    dark-background-color: '#2D3640'  # Charcoal
+    dark-border-color: '#3E3A4F'  # English Violet
+    dark-foreground-color: 'contrast-color(#A2A4BF, $dark-background-color)'  # Cool gray
+    dark-link-default-color: 'contrast-color(#0000EE, $dark-background-color, 5)'  # Blue
+    dark-link-visited-color: 'contrast-color(#551A8B, $dark-background-color, 5)'  # Purple
+    dark-menu-background: 'darken($dark-background-color, 5%)'  # Gunmetal
+    dark-menu-foreground: 'contrast-color(#A2A4BF, $dark-menu-background)'  # Cool gray
+    dark-menu-item-hover-background: 'lighten($dark-menu-background, 2.5%)'  # Gunmetal
+    dark-menu-item-hover-foreground: 'contrast-color(#A2A4BF, $dark-menu-item-hover-background)'  # Cool gray
 
 languages:
   sv:

@@ -22,6 +22,11 @@ jobs:
       - run: 'nix flake check'
       - run: 'nix build .#website'
 
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./result
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'cron(flake): Update inputs'

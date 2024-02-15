@@ -3,6 +3,7 @@ title: Cyberresiliens mot ransomware, kan man skydda sig?
 date: "2023-12-28T15:00:00+01:00"
 description: Hur vi jobbar preventivt med att skydda oss mot ransomware, hur gör ni?
 ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware.png
+tags: [Säkerhet, NixOS, ZFS]
 ---
 ![Bild av en imaginär cyberattack](/blog/2023/12/cyber-resilience-against-ransomware.png)
 

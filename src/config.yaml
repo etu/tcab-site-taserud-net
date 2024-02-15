@@ -4,10 +4,6 @@ title: Taserud Consulting AB
 defaultContentLanguage: sv
 theme: albatross
 
-disableKinds:
-  - taxonomy
-  - term
-
 params:
   copyrightOwner: 2023 Taserud Consulting AB
 

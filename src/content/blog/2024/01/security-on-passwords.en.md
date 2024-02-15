@@ -3,6 +3,7 @@ title: 'Security Series: Passwords'
 date: '2024-01-09T21:50:00+01:00'
 description: What is your password hygiene like, and what can you do as an individual?
 ogImagePath: /blog/2024/01/security-on-passwords.png
+tags: [Security, Passwords]
 ---
 ![Image of a broken laptop](/blog/2024/01/security-on-passwords.png)
 

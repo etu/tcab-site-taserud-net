@@ -3,6 +3,7 @@ title: 'Security Series: Branding'
 date: '2024-01-20T10:00:00+01:00'
 description: Are you protecting your brand on the internet? Do you have a domain name, website, and email address that match your brand?
 ogImagePath: /blog/2024/01/security-on-branding.png
+tags: [Security, Branding]
 ---
 ![Image of an abstract brand](/blog/2024/01/security-on-branding.png)
 

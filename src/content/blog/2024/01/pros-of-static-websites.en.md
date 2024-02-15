@@ -3,6 +3,7 @@ title: Do static websites suit you? Perhaps!
 date: '2024-01-02T21:00:00+01:00'
 description: Wondering if static websites are the right fit? Explore their advantages and discover why they may suit more than you think.
 ogImagePath: /blog/2024/01/pros-of-static-websites.png
+tags: [Security, Static Websites]
 ---
 ![Image of an imaginary network](/blog/2024/01/pros-of-static-websites.png)
 

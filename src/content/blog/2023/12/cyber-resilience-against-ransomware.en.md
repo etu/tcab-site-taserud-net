@@ -3,6 +3,7 @@ title: Cyber Resilience Against Ransomware – Can You Protect Yourself?
 date: "2023-12-30T13:30:00+01:00"
 description: Exploring preventive measures against ransomware – how do you handle it?
 ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware.png
+tags: [Security, NixOS, ZFS]
 ---
 ![Image of an imaginary cyberattack](/blog/2023/12/cyber-resilience-against-ransomware.png)
 

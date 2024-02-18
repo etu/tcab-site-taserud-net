@@ -7,8 +7,6 @@ tags: [Security, Branding]
 ---
 ![Image of an abstract brand](/blog/2024/01/security-on-branding.png)
 
-[Svensk översättning här.](/blog/2024/01/security-on-branding/)
-
 Security for businesses and organizations has many facets; it's not just about technical security, nor is it only about ensuring that all staff are aware of risks related to phishing, social engineering, or having strong [passwords](/en/blog/2024/01/security-on-passwords/).
 
 In this post, we'll reflect on how to protect your brand on the internet. This is crucial for all organizations and businesses, and it can also hold value for certain individuals, especially those who are public figures in some way.

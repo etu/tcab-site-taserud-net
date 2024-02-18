@@ -7,8 +7,6 @@ tags: [Säkerhet, Lösenord]
 ---
 ![Bild av en trasig laptop](/blog/2024/01/security-on-passwords.png)
 
-[English translation here.](/en/blog/2024/01/security-on-passwords/)
-
 Detta är första inlägget i vår serie om olika aspekter av säkerhet. Nu
 tar vi det första steget in i den digitala världen och börjar utforska
 lösenordens universum.

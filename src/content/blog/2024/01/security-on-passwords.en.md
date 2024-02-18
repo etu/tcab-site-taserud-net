@@ -7,8 +7,6 @@ tags: [Security, Passwords]
 ---
 ![Image of a broken laptop](/blog/2024/01/security-on-passwords.png)
 
-[Swedish version here.](/blog/2024/01/security-on-passwords/)
-
 This is the first post in our series on various aspects of
 security. Now, we take the first step into the digital world and begin
 exploring the universe of passwords.

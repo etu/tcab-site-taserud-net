@@ -7,8 +7,6 @@ tags: [Security, NixOS, ZFS]
 ---
 ![Image of an imaginary cyberattack](/blog/2023/12/cyber-resilience-against-ransomware.png)
 
-[Svensk översättning här.](/blog/2023/12/cyber-resilience-against-ransomware/)
-
 It's not uncommon to hear about major companies facing issues with
 cyberattacks. Recently, incidents involving the [Swedish Church](https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal)
 and [Coop](https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant)

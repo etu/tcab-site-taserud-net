@@ -7,8 +7,6 @@ tags: [Security, Static Websites]
 ---
 ![Image of an imaginary network](/blog/2024/01/pros-of-static-websites.png)
 
-[Svensk översättning här.](/blog/2024/01/pros-of-static-websites/)
-
 In a digital era where information speed is crucial, the choice of a
 web platform is critical. Some have taken a step back in time to use
 so-called static websites, but not everyone has discovered the

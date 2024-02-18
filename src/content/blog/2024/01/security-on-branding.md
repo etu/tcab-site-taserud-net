@@ -7,8 +7,6 @@ tags: [Säkerhet, Varumärke]
 ---
 ![Bild av ett konstigt varumärke](/blog/2024/01/security-on-branding.png)
 
-[English translation here.](/en/blog/2024/01/security-on-branding/)
-
 Säkerhet för företag och organisationer har väldigt många sidor,
 allt handlar inte om teknisk säkerhet, det handlar inte heller
 om att se till att all personal är medvetna om riskerna kring

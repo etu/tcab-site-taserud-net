@@ -7,8 +7,6 @@ tags: [Säkerhet, Hemsida]
 ---
 ![Bild av ett imaginärt nätverk](/blog/2024/01/pros-of-static-websites.png)
 
-[English translation here.](/en/blog/2024/01/pros-of-static-websites/)
-
 I en digital era där informationens hastighet är avgörande, blir valet
 av webbplattform kritiskt. Vissa har tagit ett steg tillbaka i tiden
 för att använda så kallade statiska hemsidor, men alla har inte

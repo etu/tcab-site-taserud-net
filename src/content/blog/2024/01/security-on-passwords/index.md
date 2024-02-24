@@ -2,10 +2,10 @@
 title: 'Serie om Säkerhet: Lösenord'
 date: '2024-01-09T21:50:00+01:00'
 description: Hur ser er lösenordshygien ut och vad kan du som privatperson göra?
-ogImagePath: /blog/2024/01/security-on-passwords.png
+ogImagePath: /blog/2024/01/security-on-passwords/security-on-passwords.png
 tags: [Säkerhet, Lösenord]
 ---
-![Bild av en trasig laptop](/blog/2024/01/security-on-passwords.png)
+![Bild av en trasig laptop](/blog/2024/01/security-on-passwords/security-on-passwords.png)
 
 Detta är första inlägget i vår serie om olika aspekter av säkerhet. Nu
 tar vi det första steget in i den digitala världen och börjar utforska

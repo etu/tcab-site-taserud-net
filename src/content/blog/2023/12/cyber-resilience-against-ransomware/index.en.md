@@ -2,10 +2,10 @@
 title: Cyber Resilience Against Ransomware – Can You Protect Yourself?
 date: "2023-12-30T13:30:00+01:00"
 description: Exploring preventive measures against ransomware – how do you handle it?
-ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware.png
+ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png
 tags: [Security, NixOS, ZFS]
 ---
-![Image of an imaginary cyberattack](/blog/2023/12/cyber-resilience-against-ransomware.png)
+![Image of an imaginary cyberattack](/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png)
 
 It's not uncommon to hear about major companies facing issues with
 cyberattacks. Recently, incidents involving the [Swedish Church](https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal)

@@ -2,10 +2,10 @@
 title: Do static websites suit you? Perhaps!
 date: '2024-01-02T21:00:00+01:00'
 description: Wondering if static websites are the right fit? Explore their advantages and discover why they may suit more than you think.
-ogImagePath: /blog/2024/01/pros-of-static-websites.png
+ogImagePath: /blog/2024/01/pros-of-static-websites/pros-of-static-websites.png
 tags: [Security, Static Websites]
 ---
-![Image of an imaginary network](/blog/2024/01/pros-of-static-websites.png)
+![Image of an imaginary network](/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png)
 
 In a digital era where information speed is crucial, the choice of a
 web platform is critical. Some have taken a step back in time to use

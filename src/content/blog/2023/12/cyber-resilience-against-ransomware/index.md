@@ -2,10 +2,10 @@
 title: Cyberresiliens mot ransomware, kan man skydda sig?
 date: "2023-12-28T15:00:00+01:00"
 description: Hur vi jobbar preventivt med att skydda oss mot ransomware, hur gör ni?
-ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware.png
+ogImagePath: /blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png
 tags: [Säkerhet, NixOS, ZFS]
 ---
-![Bild av en imaginär cyberattack](/blog/2023/12/cyber-resilience-against-ransomware.png)
+![Bild av en imaginär cyberattack](/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png)
 
 Det är relativt ofta man hör om större företag som får problem med
 cyberattacker, här nyligen har man kunnat läsa om [Svenska kyrkan](https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal)

@@ -2,10 +2,10 @@
 title: 'Serie om Säkerhet: Varumärken'
 date: '2024-01-20T10:00:00+01:00'
 description: Skydda du ditt varumärke på internet? Har du domänman, hemsida och e-postaddress som matchar varumärket?
-ogImagePath: /blog/2024/01/security-on-branding.png
+ogImagePath: /blog/2024/01/security-on-branding/security-on-branding.png
 tags: [Säkerhet, Varumärke]
 ---
-![Bild av ett konstigt varumärke](/blog/2024/01/security-on-branding.png)
+![Bild av ett konstigt varumärke](/blog/2024/01/security-on-branding/security-on-branding.png)
 
 Säkerhet för företag och organisationer har väldigt många sidor,
 allt handlar inte om teknisk säkerhet, det handlar inte heller

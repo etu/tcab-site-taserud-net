@@ -2,10 +2,10 @@
 title: Passar statiska hemsidor dig? Kanske!
 date: '2024-01-02T21:00:00+01:00'
 description: Passar statiska hemsidor dig? Vi tror att de passar fler än vad du tror, läs mer och upptäck.
-ogImagePath: /blog/2024/01/pros-of-static-websites.png
+ogImagePath: /blog/2024/01/pros-of-static-websites/pros-of-static-websites.png
 tags: [Säkerhet, Hemsida]
 ---
-![Bild av ett imaginärt nätverk](/blog/2024/01/pros-of-static-websites.png)
+![Bild av ett imaginärt nätverk](/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png)
 
 I en digital era där informationens hastighet är avgörande, blir valet
 av webbplattform kritiskt. Vissa har tagit ett steg tillbaka i tiden

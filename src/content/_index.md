@@ -48,7 +48,7 @@ Hostinglösningen vi erbjuder bygger på följande:
 Hör gärna av dig om du har några frågor!
 
 - {{< fa fab linkedin >}} LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
-- {{< fa fab facebook >}} Facebook [Taserud Consulting AB](https://www.facebook.com/taserudconsulting)
+- {{< fa fab facebook >}} Facebook: [Taserud Consulting AB](https://www.facebook.com/taserudconsulting)
 - {{< fa envelope >}} E-post: elis@taserud.net
 - {{< fa phone >}} Telefon: [070 425 12 98](tel:+46704251298)
 - {{< fa comments >}} Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)

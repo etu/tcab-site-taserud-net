@@ -47,7 +47,7 @@ The hosting solution we provide is built on the following principles:
 Feel free to reach out if you have any questions!
 
 - {{< fa fab linkedin >}} LinkedIn: [Taserud Consulting AB](https://www.linkedin.com/company/taserud-consulting/)
-- {{< fa fab facebook >}} Facebook [Taserud Consulting AB](https://www.facebook.com/taserudconsulting)
+- {{< fa fab facebook >}} Facebook: [Taserud Consulting AB](https://www.facebook.com/taserudconsulting)
 - {{< fa envelope >}} E-post: elis@taserud.net
 - {{< fa comments >}} Matrix: [@etu:failar.nu](https://matrix.to/#/@etu:failar.nu)
 - {{< fa fab telegram >}} Telegram: [ehirwing](https://t.me/ehirwing)

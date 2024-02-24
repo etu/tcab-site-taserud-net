@@ -94,11 +94,11 @@
         "web-iso-flags": "web-iso-flags"
       },
       "locked": {
-        "lastModified": 1708719299,
-        "narHash": "sha256-wftv0WigB6JgUi1a4WXxhPg60uhz1E/NO4Oju9MXKFU=",
+        "lastModified": 1708763021,
+        "narHash": "sha256-p38KDYjPNzgZXPOL88nEi5zVfqCRRSYEJIxXf+i2zNo=",
         "owner": "TaserudConsulting",
         "repo": "theme-albatross",
-        "rev": "3154fc7b19aadff5f7ab67d2b7454a3695025eb1",
+        "rev": "f41709bd1bb176d488b4a04f8b61e8b4327483b4",
         "type": "github"
       },
       "original": {

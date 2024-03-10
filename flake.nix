@@ -54,7 +54,7 @@
                  --export-text-to-path static/img/logo-light.svg
 
         # Build page
-        hugo --logLevel debug --minify
+        hugo --logLevel debug
       '';
 
       installPhase = ''

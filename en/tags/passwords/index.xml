@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passwords on Taserud Consulting AB</title>
+    <link>https://taserud.net/en/tags/passwords/</link>
+    <description>Recent content in Passwords on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 09 Jan 2024 21:50:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/en/tags/passwords/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Series: Passwords</title>
+      <link>https://taserud.net/en/blog/2024/01/security-on-passwords/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2024/01/security-on-passwords/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-passwords/security-on-passwords.png&#34; alt=&#34;Image of a broken laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the first post in our series on various aspects of&#xA;security. Now, we take the first step into the digital world and begin&#xA;exploring the universe of passwords.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s easy to imagine that all IT attacks are sophisticated, exploiting&#xA;unknown security vulnerabilities (so-called 0-days), or that systems&#xA;are not updated to patch known security holes.&lt;/p&gt;&#xA;&lt;p&gt;In IT attacks, it&amp;rsquo;s typically either excessive exposure of non-exposed&#xA;systems or the use of weak and leaked passwords that constitute the&#xA;vulnerabilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

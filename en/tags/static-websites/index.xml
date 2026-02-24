@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Websites on Taserud Consulting AB</title>
+    <link>https://taserud.net/en/tags/static-websites/</link>
+    <description>Recent content in Static Websites on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 Jan 2024 21:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/en/tags/static-websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do static websites suit you? Perhaps!</title>
+      <link>https://taserud.net/en/blog/2024/01/pros-of-static-websites/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2024/01/pros-of-static-websites/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png&#34; alt=&#34;Image of an imaginary network&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a digital era where information speed is crucial, the choice of a&#xA;web platform is critical. Some have taken a step back in time to use&#xA;so-called static websites, but not everyone has discovered the&#xA;benefits of static sites yet.&lt;/p&gt;&#xA;&lt;p&gt;This is not really something new; it&amp;rsquo;s essentially what we had before&#xA;we started with dynamically generated websites over 20 years&#xA;ago. However, there are relatively new tools to make static websites&#xA;better and easier than they were 20 years ago.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

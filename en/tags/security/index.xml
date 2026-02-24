@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Taserud Consulting AB</title>
+    <link>https://taserud.net/en/tags/security/</link>
+    <description>Recent content in Security on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Jan 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/en/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Series: Branding</title>
+      <link>https://taserud.net/en/blog/2024/01/security-on-branding/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2024/01/security-on-branding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-branding/security-on-branding.png&#34; alt=&#34;Image of an abstract brand&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Security for businesses and organizations has many facets; it&amp;rsquo;s not just about technical security, nor is it only about ensuring that all staff are aware of risks related to phishing, social engineering, or having strong &lt;a href=&#34;https://taserud.net/en/blog/2024/01/security-on-passwords/&#34;&gt;passwords&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In this post, we&amp;rsquo;ll reflect on how to protect your brand on the internet. This is crucial for all organizations and businesses, and it can also hold value for certain individuals, especially those who are public figures in some way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Series: Passwords</title>
+      <link>https://taserud.net/en/blog/2024/01/security-on-passwords/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2024/01/security-on-passwords/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-passwords/security-on-passwords.png&#34; alt=&#34;Image of a broken laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the first post in our series on various aspects of&#xA;security. Now, we take the first step into the digital world and begin&#xA;exploring the universe of passwords.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s easy to imagine that all IT attacks are sophisticated, exploiting&#xA;unknown security vulnerabilities (so-called 0-days), or that systems&#xA;are not updated to patch known security holes.&lt;/p&gt;&#xA;&lt;p&gt;In IT attacks, it&amp;rsquo;s typically either excessive exposure of non-exposed&#xA;systems or the use of weak and leaked passwords that constitute the&#xA;vulnerabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Do static websites suit you? Perhaps!</title>
+      <link>https://taserud.net/en/blog/2024/01/pros-of-static-websites/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2024/01/pros-of-static-websites/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png&#34; alt=&#34;Image of an imaginary network&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a digital era where information speed is crucial, the choice of a&#xA;web platform is critical. Some have taken a step back in time to use&#xA;so-called static websites, but not everyone has discovered the&#xA;benefits of static sites yet.&lt;/p&gt;&#xA;&lt;p&gt;This is not really something new; it&amp;rsquo;s essentially what we had before&#xA;we started with dynamically generated websites over 20 years&#xA;ago. However, there are relatively new tools to make static websites&#xA;better and easier than they were 20 years ago.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Resilience Against Ransomware – Can You Protect Yourself?</title>
+      <link>https://taserud.net/en/blog/2023/12/cyber-resilience-against-ransomware/</link>
+      <pubDate>Sat, 30 Dec 2023 13:30:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2023/12/cyber-resilience-against-ransomware/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png&#34; alt=&#34;Image of an imaginary cyberattack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not uncommon to hear about major companies facing issues with&#xA;cyberattacks. Recently, incidents involving the &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal&#34;&gt;Swedish Church&lt;/a&gt;&#xA;and &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant&#34;&gt;Coop&lt;/a&gt;&#xA;have been in the spotlight, highlighting the prevalence of ransomware.&lt;/p&gt;&#xA;&lt;p&gt;When dealing with a large IT system critical to operations, it&amp;rsquo;s&#xA;crucial to carefully consider how to manage and plan for ransomware&#xA;attacks.&lt;/p&gt;&#xA;&lt;p&gt;Whether it&amp;rsquo;s a personal laptop, a terminal in a store, or a server&#xA;infrastructure for a major site, the principles remain the same.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

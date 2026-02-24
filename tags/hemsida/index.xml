@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hemsida on Taserud Consulting AB</title>
+    <link>https://taserud.net/tags/hemsida/</link>
+    <description>Recent content in Hemsida on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 02 Jan 2024 21:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/tags/hemsida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passar statiska hemsidor dig? Kanske!</title>
+      <link>https://taserud.net/blog/2024/01/pros-of-static-websites/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2024/01/pros-of-static-websites/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png&#34; alt=&#34;Bild av ett imaginärt nätverk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I en digital era där informationens hastighet är avgörande, blir valet&#xA;av webbplattform kritiskt. Vissa har tagit ett steg tillbaka i tiden&#xA;för att använda så kallade statiska hemsidor, men alla har inte&#xA;upptäckt fördelarna med statiska hemsidor ännu.&lt;/p&gt;&#xA;&lt;p&gt;Detta är egentligen inget nytt, det är egentligen bara vad vi hade&#xA;innan vi började med dynamiskt genererade hemsidor för över 20 år&#xA;sedan. Dock finns det relativt nya verktyg för att göra statiska&#xA;hemsidor bättre och enklare att än vad det fanns för 20 år sedan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

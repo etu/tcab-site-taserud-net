@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZFS on Taserud Consulting AB</title>
+    <link>https://taserud.net/en/tags/zfs/</link>
+    <description>Recent content in ZFS on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 30 Dec 2023 13:30:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/en/tags/zfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Resilience Against Ransomware – Can You Protect Yourself?</title>
+      <link>https://taserud.net/en/blog/2023/12/cyber-resilience-against-ransomware/</link>
+      <pubDate>Sat, 30 Dec 2023 13:30:00 +0100</pubDate>
+      <guid>https://taserud.net/en/blog/2023/12/cyber-resilience-against-ransomware/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png&#34; alt=&#34;Image of an imaginary cyberattack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not uncommon to hear about major companies facing issues with&#xA;cyberattacks. Recently, incidents involving the &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal&#34;&gt;Swedish Church&lt;/a&gt;&#xA;and &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant&#34;&gt;Coop&lt;/a&gt;&#xA;have been in the spotlight, highlighting the prevalence of ransomware.&lt;/p&gt;&#xA;&lt;p&gt;When dealing with a large IT system critical to operations, it&amp;rsquo;s&#xA;crucial to carefully consider how to manage and plan for ransomware&#xA;attacks.&lt;/p&gt;&#xA;&lt;p&gt;Whether it&amp;rsquo;s a personal laptop, a terminal in a store, or a server&#xA;infrastructure for a major site, the principles remain the same.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

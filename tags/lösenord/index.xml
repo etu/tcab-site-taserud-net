@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lösenord on Taserud Consulting AB</title>
+    <link>https://taserud.net/tags/l%C3%B6senord/</link>
+    <description>Recent content in Lösenord on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 09 Jan 2024 21:50:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/tags/l%C3%B6senord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serie om Säkerhet: Lösenord</title>
+      <link>https://taserud.net/blog/2024/01/security-on-passwords/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2024/01/security-on-passwords/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-passwords/security-on-passwords.png&#34; alt=&#34;Bild av en trasig laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Detta är första inlägget i vår serie om olika aspekter av säkerhet. Nu&#xA;tar vi det första steget in i den digitala världen och börjar utforska&#xA;lösenordens universum.&lt;/p&gt;&#xA;&lt;p&gt;Det är lätt att föreställa sig att alla IT-attacker är sofistikerade&#xA;och använder sig av okända säkerhetshål (så kallade 0-days) eller att&#xA;system inte är uppdaterade för att täppa till kända säkerhetshål.&lt;/p&gt;&#xA;&lt;p&gt;Vid IT-attacker är det vanligtvis antingen överflödig exponering av&#xA;ej-exponerade system eller användning av svaga och läckta lösenord som&#xA;utgör sårbarheterna.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

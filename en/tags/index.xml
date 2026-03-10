@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Taserud Consulting AB</title>
+    <link>https://taserud.net/en/tags/</link>
+    <description>Recent content in Tags on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Jan 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Branding</title>
+      <link>https://taserud.net/en/tags/branding/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/branding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://taserud.net/en/tags/security/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Passwords</title>
+      <link>https://taserud.net/en/tags/passwords/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/passwords/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Websites</title>
+      <link>https://taserud.net/en/tags/static-websites/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/static-websites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NixOS</title>
+      <link>https://taserud.net/en/tags/nixos/</link>
+      <pubDate>Sat, 30 Dec 2023 13:30:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/nixos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZFS</title>
+      <link>https://taserud.net/en/tags/zfs/</link>
+      <pubDate>Sat, 30 Dec 2023 13:30:00 +0100</pubDate>
+      <guid>https://taserud.net/en/tags/zfs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

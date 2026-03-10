@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Taserud Consulting AB</title>
+    <link>https://taserud.net/tags/</link>
+    <description>Recent content in Tags on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sat, 20 Jan 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Säkerhet</title>
+      <link>https://taserud.net/tags/s%C3%A4kerhet/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/s%C3%A4kerhet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Varumärke</title>
+      <link>https://taserud.net/tags/varum%C3%A4rke/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/varum%C3%A4rke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lösenord</title>
+      <link>https://taserud.net/tags/l%C3%B6senord/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/l%C3%B6senord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hemsida</title>
+      <link>https://taserud.net/tags/hemsida/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/hemsida/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NixOS</title>
+      <link>https://taserud.net/tags/nixos/</link>
+      <pubDate>Thu, 28 Dec 2023 15:00:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/nixos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZFS</title>
+      <link>https://taserud.net/tags/zfs/</link>
+      <pubDate>Thu, 28 Dec 2023 15:00:00 +0100</pubDate>
+      <guid>https://taserud.net/tags/zfs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

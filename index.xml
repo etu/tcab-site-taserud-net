@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taserud Consulting AB</title>
+    <link>https://taserud.net/</link>
+    <description>Recent content on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sat, 20 Jan 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serie om Säkerhet: Varumärken</title>
+      <link>https://taserud.net/blog/2024/01/security-on-branding/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2024/01/security-on-branding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-branding/security-on-branding.png&#34; alt=&#34;Bild av ett konstigt varumärke&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Säkerhet för företag och organisationer har väldigt många sidor,&#xA;allt handlar inte om teknisk säkerhet, det handlar inte heller&#xA;om att se till att all personal är medvetna om riskerna kring&#xA;phishing, social engineering, eller att ha bra&#xA;&lt;a href=&#34;https://taserud.net/blog/2024/01/security-on-passwords/&#34;&gt;lösenord&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I detta inlägg så ska vi fundera lite på hur man kan skydda sitt&#xA;varumärke på internet. Detta är något som är viktigt för alla&#xA;organisationer och företag. Men kan även ha ett värde för vissa&#xA;privatpersoner, speciellt om det rör sig om en person som är&#xA;offentlig på något sätt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serie om Säkerhet: Lösenord</title>
+      <link>https://taserud.net/blog/2024/01/security-on-passwords/</link>
+      <pubDate>Tue, 09 Jan 2024 21:50:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2024/01/security-on-passwords/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/security-on-passwords/security-on-passwords.png&#34; alt=&#34;Bild av en trasig laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Detta är första inlägget i vår serie om olika aspekter av säkerhet. Nu&#xA;tar vi det första steget in i den digitala världen och börjar utforska&#xA;lösenordens universum.&lt;/p&gt;&#xA;&lt;p&gt;Det är lätt att föreställa sig att alla IT-attacker är sofistikerade&#xA;och använder sig av okända säkerhetshål (så kallade 0-days) eller att&#xA;system inte är uppdaterade för att täppa till kända säkerhetshål.&lt;/p&gt;&#xA;&lt;p&gt;Vid IT-attacker är det vanligtvis antingen överflödig exponering av&#xA;ej-exponerade system eller användning av svaga och läckta lösenord som&#xA;utgör sårbarheterna.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passar statiska hemsidor dig? Kanske!</title>
+      <link>https://taserud.net/blog/2024/01/pros-of-static-websites/</link>
+      <pubDate>Tue, 02 Jan 2024 21:00:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2024/01/pros-of-static-websites/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2024/01/pros-of-static-websites/pros-of-static-websites.png&#34; alt=&#34;Bild av ett imaginärt nätverk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I en digital era där informationens hastighet är avgörande, blir valet&#xA;av webbplattform kritiskt. Vissa har tagit ett steg tillbaka i tiden&#xA;för att använda så kallade statiska hemsidor, men alla har inte&#xA;upptäckt fördelarna med statiska hemsidor ännu.&lt;/p&gt;&#xA;&lt;p&gt;Detta är egentligen inget nytt, det är egentligen bara vad vi hade&#xA;innan vi började med dynamiskt genererade hemsidor för över 20 år&#xA;sedan. Dock finns det relativt nya verktyg för att göra statiska&#xA;hemsidor bättre och enklare att än vad det fanns för 20 år sedan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyberresiliens mot ransomware, kan man skydda sig?</title>
+      <link>https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/</link>
+      <pubDate>Thu, 28 Dec 2023 15:00:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png&#34; alt=&#34;Bild av en imaginär cyberattack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Det är relativt ofta man hör om större företag som får problem med&#xA;cyberattacker, här nyligen har man kunnat läsa om &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal&#34;&gt;Svenska kyrkan&lt;/a&gt;&#xA;som har utsatts, sedan har &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant&#34;&gt;Coop&lt;/a&gt;&#xA;utsatts för omfattande ransomware.&lt;/p&gt;&#xA;&lt;p&gt;Har man ett stort IT-system som är driftkritiskt på något vis så är&#xA;det mycket viktigt att tänka igenom hur man hanterar och planerar för&#xA;att hantera ett ransomware.&lt;/p&gt;&#xA;&lt;p&gt;Då spelar det ingen roll om det är en personlig laptop, en terminal&#xA;som sitter uppe i en butik eller om det är en serverinfrastruktur för&#xA;en större site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv" lang="sv"><head>
+    <title>Cyberresiliens mot ransomware, kan man skydda sig? - Taserud Consulting AB</title>
+
+    
+    <meta charset="utf-8">
+
+    
+    <meta name="referrer" content="no-referrer">
+
+    
+    <link rel="canonical" href="https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    
+
+    
+    
+        <link rel="icon" type="image/png" href="https://taserud.net/img/icon.png">
+    
+
+    
+    <meta property="description" content="Hur vi jobbar preventivt med att skydda oss mot ransomware, hur gör ni?">
+
+    
+    <meta property="og:description" content="Hur vi jobbar preventivt med att skydda oss mot ransomware, hur gör ni?">
+    <meta property="og:locale" content="sv">
+    <meta property="og:site_name" content="Taserud Consulting AB">
+    <meta property="og:title" content="Cyberresiliens mot ransomware, kan man skydda sig? &middot; Taserud Consulting AB">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/">
+    
+    <meta property="og:image" content="https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png">
+    
+    <meta name="twitter:card" content="summary_large_image">
+
+    
+    <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.taserud.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+    
+    
+        
+        
+            
+                
+                <link rel="stylesheet" href="/css/style.min.1a5bf94600b1438a0cde3d1592124c53912672ae35a7109d922ab2ab09ad5169.css" integrity="sha256-Glv5RgCxQ4oM3j0VkhJMU5Emcq41pxCdkiqyqwmtUWk=" crossorigin="anonymous" media="screen">
+                
+            
+        
+    
+</head>
+
+    <body><header>
+    
+        <div class="i18n">
+            <ul>
+                
+                    
+                        <li>
+                            <a href="/en/blog/2023/12/cyber-resilience-against-ransomware/" class="translation"><img src="/img/iso-flags/gb.svg" alt="gb translation"></a>
+                        </li>
+                    
+                
+            </ul>
+        </div>
+    
+    
+        <div class="logo">
+            <a href="/">
+                <picture>
+                    <source srcset="/img/logo-dark.svg" media="(prefers-color-scheme: dark)">
+                    <source srcset="/img/logo-light.svg" media="(prefers-color-scheme: light)">
+                    <img src="/img/logo-light.svg" alt="Logo of Taserud Consulting AB">
+                </picture>
+            </a>
+        </div>
+    
+    
+    
+    <nav>
+        
+            <ul>
+                
+
+                
+                    <li><a href="/#it-konsult">IT Konsult</a></li>
+                
+                    <li><a href="/#hemsidor">Hemsidor</a></li>
+                
+                    <li><a href="/#kontakt">Kontakt</a></li>
+                
+                    <li><a href="/blog/">Blogg</a></li>
+                
+            </ul>
+        
+    </nav>
+</header>
+<div class="wrapper">
+<div class="content">
+    
+        <h1>Cyberresiliens mot ransomware, kan man skydda sig?</h1>
+    <span class="post-meta">
+    2023-12-28
+
+    
+        &middot; 3 minuters läsning
+    
+
+    
+        &middot;
+        
+            <a class="tag" href="/tags/s%C3%A4kerhet/">Säkerhet</a>
+        
+            <a class="tag" href="/tags/nixos/">NixOS</a>
+        
+            <a class="tag" href="/tags/zfs/">ZFS</a>
+        
+    
+</span>
+<p><img src="/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png" alt="Bild av en imaginär cyberattack"></p>
+<p>Det är relativt ofta man hör om större företag som får problem med
+cyberattacker, här nyligen har man kunnat läsa om <a href="https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal">Svenska kyrkan</a>
+som har utsatts, sedan har <a href="https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant">Coop</a>
+utsatts för omfattande ransomware.</p>
+<p>Har man ett stort IT-system som är driftkritiskt på något vis så är
+det mycket viktigt att tänka igenom hur man hanterar och planerar för
+att hantera ett ransomware.</p>
+<p>Då spelar det ingen roll om det är en personlig laptop, en terminal
+som sitter uppe i en butik eller om det är en serverinfrastruktur för
+en större site.</p>
+<p>Något som är säkert är dock att ett större system såklart är svårare
+att säkra än ett mindre - men det innebär ju inte att man inte ska
+försöka.</p>
+<h2 id="vi-är-inte-rädda---för-vi-har-en-plan">Vi är inte rädda - för vi har en plan</h2>
+<p>Vi känner oss väldigt säkra på att vi skulle kunna hantera en
+ransomware-attack då vi har en väl utarbetad plan för hur det skulle
+gå till och vi har tagit till förebyggande åtgärder för att minimera
+skadan av en attack.</p>
+<p>Vi tänker enligt strategin att vi ska skydda oss i många led samt att
+vi ska kunna återhämta oss ifall det värsta inträffar.</p>
+<p>Kontakta oss om ni behöver hjälp att bygga upp er strategi eller få
+tips, råd och hjälp att bygga upp er cyberresiliens mot
+ransomware. <a href="/#kontakt">Kontakta oss här</a>.</p>
+<h3 id="del-1-minimera-exponering">Del 1: Minimera exponering</h3>
+<p>Första försvaret av ett datorsystem är alltid att minemera
+exponeringsytan, det gör att det minimerar risken att någon tar sig in
+och att det blir ett problem till att börja med.</p>
+<p>Detta görs genom en restrektiv brandvägg, stängda portar som standard,
+inte tillåta lösenordsinloggning till administrativa funktioner utan
+kräva nycklar eller 2FA.</p>
+<h3 id="del-2-partitionering-av-diskar">Del 2: Partitionering av diskar</h3>
+<p>Filsystemet med operativsystemet är i största möjliga mån enbart
+tillgängligt för att läsas och inte att skrivas till. Sedan så är
+resterande filsystem i största möjliga mån markerade med <code>noexec</code> som
+mount-flagga vilken gör att man inte kan köra program från de
+filsystemen, det går ju fortfarande att köra scripts så klart så länge
+språket man evaluerar redan är installerat på systemet.</p>
+<h3 id="del-3-bygger-på-nixos">Del 3: Bygger på NixOS</h3>
+<p>Om det mot förmodan är något som tar sig in och blir del av
+operativsystemets partition så har vi en säkerhet av att vi bygger på
+NixOS. Detta gör att vi vid nästa utrullning av systemet kastar bort
+allt som inte är del av konfigurationen så vi bara har det vi
+förväntar oss i operativsystemet.</p>
+<h3 id="del-4-använder-zfs-snapshots">Del 4: Använder ZFS snapshots</h3>
+<p>Vi tar snapshots regelbundet. Då dessa är oföränderliga efter att de
+skapats så kan vi alltid rulla tillbaka till en tidigare snapshot på
+det påverkade systemet om vi skulle upptäcka att något data blivit
+påverkat av ett ransomware.</p>
+<h3 id="del-5-synkroniserar-zfs-snapshots">Del 5: Synkroniserar ZFS snapshots</h3>
+<p>Vi synkroniserar snapshots från produktionssystem till backupsystem
+där det är backupsystemet som kör detta jobb. Detta gör att inget
+produktionssystem har tillgång till backupsystemet för att förstöra
+något i backupen. Det innebär också att det går att låsa ner
+backupsystemet genom att inte köra andra saker än synkronisering av
+backuper samt dataintegritetskontroller.</p>
+<h3 id="del-6-bygger-på-nixos">Del 6: Bygger på NixOS</h3>
+<p>Denna punkt igen, jag vet. Men om någon nu skulle ta sig in i en dator
+och lyckas få ett riktigt fotfäste, i form av att ta sig in i en
+dators firmware eller liknande så bygger vi ju på NixOS.</p>
+<p>Det gör att vi alltid kan införskaffa ett nytt system att rulla ut
+samma system på för att sedan återställa backupen dit istället. Då får
+vi en ny installation med exakt samma konfiguration som tidigare.</p>
+<h2 id="hur-skyddar-du-dig-och-ditt-företag-mot-ransomware">Hur skyddar du dig och ditt företag mot ransomware?</h2>
+<p>Kontakta oss om ni behöver hjälp att bygga upp er strategi eller få
+tips, råd och hjälp att bygga upp er cyberresiliens mot
+ransomware. <a href="/#kontakt">Kontakta oss här</a>.</p>
+
+</div>
+
+        </div><footer class="footer">
+    <div class="content">
+        
+            <p>
+                Copyright &copy; 2023 Taserud Consulting AB
+            </p>
+        
+        <p>
+            Made with <i class="fa-solid fa-heart" style="color: red"></i> in Arvika
+            by <a href="https://taserud.net/en/?mtm_campaign=ThemeAlbatrossFooter&mtm_kwd=https%2f%2ftaserud.net%2f" target="_blank">Taserud Consulting AB</a>.
+        </p>
+    </div>
+</footer>
+
+    </body>
+</html>

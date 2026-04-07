@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NixOS on Taserud Consulting AB</title>
+    <link>https://taserud.net/tags/nixos/</link>
+    <description>Recent content in NixOS on Taserud Consulting AB</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Thu, 28 Dec 2023 15:00:00 +0100</lastBuildDate>
+    <atom:link href="https://taserud.net/tags/nixos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberresiliens mot ransomware, kan man skydda sig?</title>
+      <link>https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/</link>
+      <pubDate>Thu, 28 Dec 2023 15:00:00 +0100</pubDate>
+      <guid>https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://taserud.net/blog/2023/12/cyber-resilience-against-ransomware/cyber-resilience-against-ransomware.png&#34; alt=&#34;Bild av en imaginär cyberattack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Det är relativt ofta man hör om större företag som får problem med&#xA;cyberattacker, här nyligen har man kunnat läsa om &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/svenska-kyrkan-varnades-innan-it-attacken-tappte-inte-till-sakerhetshal&#34;&gt;Svenska kyrkan&lt;/a&gt;&#xA;som har utsatts, sedan har &lt;a href=&#34;https://www.svt.se/nyheter/inrikes/it-attacken-mot-coop-detta-har-hant&#34;&gt;Coop&lt;/a&gt;&#xA;utsatts för omfattande ransomware.&lt;/p&gt;&#xA;&lt;p&gt;Har man ett stort IT-system som är driftkritiskt på något vis så är&#xA;det mycket viktigt att tänka igenom hur man hanterar och planerar för&#xA;att hantera ett ransomware.&lt;/p&gt;&#xA;&lt;p&gt;Då spelar det ingen roll om det är en personlig laptop, en terminal&#xA;som sitter uppe i en butik eller om det är en serverinfrastruktur för&#xA;en större site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
